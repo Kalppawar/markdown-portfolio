@@ -1,4 +1,4 @@
-https://www.facebook.com/kalp.pawar.90 (facebook link)
+https://www.facebook.com/kalp.pawar.90 (facebook link)<br>
 https://github.com/Kalppawar (github link)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![github cat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
